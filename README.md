@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Ali Yazdan</h1>
 <h3 align="center">A full stack development enthusiast</h3>
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmpnZTE4NmVjMWtzOTVxazdtdXhwb2NrMmFyNnQ4bDR3ejBzczV1OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif">
