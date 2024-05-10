@@ -16,6 +16,7 @@ I am a passionate and driven 3rd-year BE student from ISE at SIT, Tumkur, with a
 <a href="https://linkedin.com/in/ali-yazdan-452711229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-yazdan-452711229" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/zaidiyazda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="zaidiyazda" height="30" width="40" /></a>
 <a href="https://instagram.com/zaidiyazda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zaidiyazda" height="30" width="40" /></a>
+
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://aliyazdan.vercel.app/)
 
 ## Skills
