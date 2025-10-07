@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Ali Yazdan</h1>
 
 ## About Me
-I am a passionate and driven 4rd-year BE student from ISE at SIT, Tumkur, with a strong interest in development. I have experience in full-stack development, including proficiency in React Native for mobile app development, and have worked on several projects, both independently and collaboratively.
+I’m a passionate Data Engineer who loves turning raw data into meaningful insights. Over the years, I’ve worked on designing and optimizing large-scale data pipelines using tools like PySpark, Kafka, and AWS. I enjoy solving complex data problems, automating workflows, and building real-time systems that actually make an impact. With a solid background in software engineering and data systems, I’m always excited to create solutions that are not just scalable and reliable but also smart and efficient.
 
 - 📫 Reach out to me **yazdaalizaidi@gmail.com**
 
